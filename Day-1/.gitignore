@@ -1,0 +1,11 @@
+# Ignoruj środowiska wirtualne
+venv/
+__pycache__/
+*.pyc
+
+# Ignoruj ustawienia VS Code
+.vscode/
+
+# Ignoruj pliki systemowe
+.DS_Store
+Thumbs.db
